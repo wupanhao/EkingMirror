@@ -53,9 +53,18 @@ function getRSS(){
 	})
 }
 
+function getCi(){
+		$.get('/ci',{num:100},(res) => {
+		console.log(res);
+		// $('#bottom-center')[0].innerHTML ='<div style="font-size:24px">' + res[Math.floor(Math.random()*res.length)]+'</div>';
+		comment = res;
+	})
+}
+
 getWeatherForcast();
 getLunarDate();
-getRSS();
+// getRSS();
+getCi()
 
  var socket = io();
 
@@ -69,10 +78,12 @@ setInterval(()=>{
 	var time = date.toTimeString();
 	// console.log(time);
 	$('#time')[0].innerHTML = time.substring(0,8);
-	if(date.getTime() - update_time.getTime() > 3000){
+	if(date.getTime() - update_time.getTime() > 5000){
 		update_time = date;
 		console.log('update comment at ' + time)
-		$('#bottom-center')[0].innerHTML ='<div >' + comment[Math.floor(Math.random()*comment.length)]+'</div>';
+		var data = comment[Math.floor(Math.random()*comment.length)];
+		// ci
+		$('#bottom-center')[0].innerHTML ='<div class=" align-left">    ' + data.content+'</div>' + '<div class="small align-right" >《' + data.rhythmic +'》—— '+data.author + '</div>';
 	}
 },1000)
 

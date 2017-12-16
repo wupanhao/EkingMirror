@@ -29,5 +29,6 @@ function getRSS(name,url){
 	})
 }
 
-getRSS('douban','https://www.douban.com/feed/review/book')
-getRSS('sciencedaily','http://feeds.sciencedaily.com/sciencedaily')
+// getRSS('douban','https://www.douban.com/feed/review/book')
+// getRSS('sciencedaily','http://feeds.sciencedaily.com/sciencedaily')
+getRSS('36kr','http://36kr.com/feed')

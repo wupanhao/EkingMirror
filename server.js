@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
-var mirror_lib = require('./js/mirror-lib');
+var mirror_lib = require('./mirror-lib');
 var bodyParser = require('body-parser')
 var res = "";
 
@@ -49,6 +49,14 @@ app.get('/rss',(req,res)=>{
 
 app.get('/send_msg',(req,res) => {
 	res.send('<form method="POST" action="/message"><input name="msg" type="text"><input type="submit" value="发送"></form>')
+})
+
+app.get('/ci',(req,res) => {
+	var num = 1;
+	console.log(req.query)
+	if(req.query && req.query.num)
+		num = req.query.num;
+	mirror_lib.getCi(num,return_json(res));
 })
 
 app.post('/message',(req,res) => {

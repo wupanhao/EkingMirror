@@ -1,6 +1,7 @@
 var config = {};
 
 config.key = "heweather key";
+config.rss = "rss/rss.xml"
 
 var localSettings = null;
 try {
