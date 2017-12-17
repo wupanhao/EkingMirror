@@ -109,6 +109,27 @@ function getWeather(city,callback){
 // getLunarDate()
 
 function refreshWeatherForecast(city,callback){
+
+
+	const execSync = require('child_process').execSync;
+
+	var cmd = execSync('wget "https://free-api.heweather.com/s6/weather/forecast?location='+city+'&key='+config.key+'" -O heweather.json ').toString();
+	// console.log(cmd);
+	var data = JSON.parse(fs.readFileSync('heweather.json').toString());
+	console.log(data)
+	if(data.HeWeather6){
+		var forecast = data.HeWeather6[0];
+		fs.writeFileSync('weatherForecast.json',JSON.stringify(forecast));
+		if(callback)
+			callback(forecast);
+		else
+			callback({status:'Fail',msg:'data error'})
+	}
+	else
+		callback({status:'Fail',msg:'data error'})
+
+
+	/*
 			axios.request("https://free-api.heweather.com/s6/weather/forecast", {params:{ location: city, key: config.key }}).then((res) => {
 		var forecast = res.data.HeWeather6[0];
 		console.log(forecast);
@@ -116,6 +137,7 @@ function refreshWeatherForecast(city,callback){
 		if(callback)
 			callback(forecast);
 	})
+	*/
 			// .catch((e)=>{console.log(e)});
 }
 
@@ -146,6 +168,9 @@ function getCi(n=1,callback){
 	db.close();
 }
 
+// getCi(10,console.log);
+// getWeather('北京',console.log);
+// refreshWeatherForecast('北京',console.log);
 
 module.exports = {
     getWeather:getWeather,
@@ -154,4 +179,3 @@ module.exports = {
     getCi:getCi
 }
 
-// getCi(10,console.log)
