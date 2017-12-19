@@ -79,7 +79,7 @@ function return_json(res){
 
 io.on('connection',function(socket){
 	console.log('a user connected');
-	io.emit('message',{msg:"hello world"})
+	io.emit('message',{msg:"当然是你啦，畔昊～"})
 })
 
 http.listen(8081, function(){

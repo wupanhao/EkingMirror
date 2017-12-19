@@ -170,6 +170,7 @@ function getCi(n=1,callback){
 
 // getCi(10,console.log);
 // getWeather('北京',console.log);
+// refreshLunarDate(console.log);
 // refreshWeatherForecast('北京',console.log);
 
 module.exports = {
