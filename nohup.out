@@ -1,0 +1,626 @@
+listening on *:8081
+{ num: '100' }
+a user connected
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T09:52:20.574Z 2017-12-17T09:52:20.668Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T09:52:20.574Z
+2017-12-16T02:51:00.000Z 2017-12-17T09:52:20.574Z 2017-12-17T09:52:20.669Z
+16 17 17 11 11 2017 2017
+false
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T09:52:20.574Z
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T09:52:50.864Z 2017-12-17T09:52:50.864Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T09:52:50.864Z
+2017-12-16T02:51:00.000Z 2017-12-17T09:52:50.864Z 2017-12-17T09:52:50.864Z
+16 17 17 11 11 2017 2017
+false
+{ num: '100' }
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T09:52:50.870Z
+a user connected
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T09:54:50.945Z 2017-12-17T09:54:50.945Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T09:54:50.945Z
+2017-12-16T02:51:00.000Z 2017-12-17T09:54:50.945Z 2017-12-17T09:54:50.945Z
+16 17 17 11 11 2017 2017
+false
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T09:55:23.478Z 2017-12-17T09:55:23.478Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T09:55:23.478Z
+2017-12-16T02:51:00.000Z 2017-12-17T09:55:23.478Z 2017-12-17T09:55:23.478Z
+16 17 17 11 11 2017 2017
+false
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T09:57:23.668Z 2017-12-17T09:57:23.669Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T09:57:23.668Z
+2017-12-16T02:51:00.000Z 2017-12-17T09:57:23.668Z 2017-12-17T09:57:23.669Z
+16 17 17 11 11 2017 2017
+false
+a user connected
+(node:8316) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): Error: socket hang up
+(node:8316) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:8316) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): Error: socket hang up
+(node:8316) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): Error: socket hang up
+(node:8316) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): Error: socket hang up
+(node:8316) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): Error: socket hang up
+a user connected
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T13:37:37.086Z 2017-12-17T13:37:37.087Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T13:37:37.086Z
+2017-12-16T02:51:00.000Z 2017-12-17T13:37:37.086Z 2017-12-17T13:37:37.087Z
+16 17 17 11 11 2017 2017
+false
+{ num: '100' }
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T13:37:37.090Z
+a user connected
+文件存在
+2017-12-16T02:51:00.000Z 2017-12-17T13:39:37.089Z 2017-12-17T13:39:37.089Z
+16 17 17 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-17T13:39:37.089Z
+2017-12-16T02:51:00.000Z 2017-12-17T13:39:37.089Z 2017-12-17T13:39:37.089Z
+16 17 17 11 11 2017 2017
+false
+listening on *:8081
+a user connected
+文件存在
+2017-12-17T13:54:00.000Z 2017-12-17T14:26:12.744Z 2017-12-17T14:26:12.745Z
+17 17 17 11 11 2017 2017
+a user connected
+{ num: '100' }
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T14:26:12.754Z
+a user connected
+{ num: '100' }
+文件不存在或不是标准文件
+--2017-12-17 22:26:40--  https://free-api.heweather.com/s6/weather/forecast?location=%E5%8C%97%E4%BA%AC&key=09355c25f30b4b15859c3ccab86b1464
+Connecting to 172.16.122.122:1080... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 1271 (1.2K) [application/json]
+Saving to: ‘heweather.json’
+
+     0K .                                                     100%  215M=0s
+
+2017-12-17 22:26:43 (215 MB/s) - ‘heweather.json’ saved [1271/1271]
+
+{ HeWeather6: 
+   [ { basic: [Object],
+       update: [Object],
+       status: 'ok',
+       daily_forecast: [Array] } ] }
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T14:26:40.397Z
+文件存在
+2017-12-17T13:54:00.000Z 2017-12-17T14:27:47.347Z 2017-12-17T14:27:47.349Z
+17 17 17 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T14:27:47.348Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-17T13:54:00.000Z 2017-12-17T14:34:13.625Z 2017-12-17T14:34:13.626Z
+17 17 17 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-17T14:34:13.637Z
+{ num: '100' }
+a user connected
+a user connected
+listening on *:8081
+文件存在
+2017-12-17T13:54:00.000Z 2017-12-18T04:48:31.713Z 2017-12-18T04:48:31.714Z
+17 18 18 11 11 2017 2017
+Not same day or data error[object Object] 2017-12-18T04:48:31.713Z
+2017-12-17T13:54:00.000Z 2017-12-18T04:48:31.713Z 2017-12-18T04:48:31.715Z
+17 18 18 11 11 2017 2017
+false
+--2017-12-18 12:48:31--  https://free-api.heweather.com/s6/weather/forecast?location=%E5%8C%97%E4%BA%AC&key=09355c25f30b4b15859c3ccab86b1464
+Connecting to 172.16.122.122:1080... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 1263 (1.2K) [application/json]
+Saving to: ‘heweather.json’
+
+     0K .                                                     100%  266M=0s
+
+2017-12-18 12:48:35 (266 MB/s) - ‘heweather.json’ saved [1263/1263]
+
+{ HeWeather6: 
+   [ { basic: [Object],
+       update: [Object],
+       status: 'ok',
+       daily_forecast: [Array] } ] }
+a user connected
+{ num: '100' }
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 17,
+  lunarYear: 2017,
+  lunarMonth: 10,
+  lunarDay: 30,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十',
+  cnday: '三十',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '戊寅',
+  suit: '订盟,纳采,会亲友,安机械,开光,修造,动土,竖柱,上梁,盖屋,起基,造桥,栽种,纳畜,造畜稠,移柩,入殓,启钻,修坟,立碑,安葬',
+  taboo: '祈福,出火,嫁娶,入宅,开市,动土,破土',
+  animal: '鸡',
+  week: 'Sunday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-18T04:48:35.474Z
+{ status: 200,
+  message: 'success',
+  data: 
+   { year: 2017,
+     month: 12,
+     day: 18,
+     lunarYear: 2017,
+     lunarMonth: 11,
+     lunarDay: 1,
+     cnyear: '贰零壹柒 ',
+     cnmonth: '十一',
+     cnday: '初一',
+     hyear: '丁酉',
+     cyclicalYear: '丁酉',
+     cyclicalMonth: '壬子',
+     cyclicalDay: '己卯',
+     suit: '祭祀,平治道涂,修坟,除服,成服,馀事勿取',
+     taboo: '移徙,入宅,嫁娶,掘井,安葬',
+     animal: '鸡',
+     week: 'Monday',
+     festivalList: [],
+     jieqi: { '7': '大雪', '22': '冬至' },
+     maxDayInMonth: 30,
+     leap: false,
+     lunarYearString: '丁酉',
+     bigMonth: true } }
+refresh lunar date
+文件存在
+2017-12-18T03:50:00.000Z 2017-12-18T04:52:40.047Z 2017-12-18T04:52:40.048Z
+18 18 18 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 18,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 1,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初一',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '己卯',
+  suit: '祭祀,平治道涂,修坟,除服,成服,馀事勿取',
+  taboo: '移徙,入宅,嫁娶,掘井,安葬',
+  animal: '鸡',
+  week: 'Monday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-18T04:52:40.063Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-18T03:50:00.000Z 2017-12-18T04:53:20.033Z 2017-12-18T04:53:20.033Z
+18 18 18 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 18,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 1,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初一',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '己卯',
+  suit: '祭祀,平治道涂,修坟,除服,成服,馀事勿取',
+  taboo: '移徙,入宅,嫁娶,掘井,安葬',
+  animal: '鸡',
+  week: 'Monday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-18T04:53:20.045Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-18T03:50:00.000Z 2017-12-18T04:53:26.149Z 2017-12-18T04:53:26.149Z
+18 18 18 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 18,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 1,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初一',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '己卯',
+  suit: '祭祀,平治道涂,修坟,除服,成服,馀事勿取',
+  taboo: '移徙,入宅,嫁娶,掘井,安葬',
+  animal: '鸡',
+  week: 'Monday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  leap: false,
+  lunarYearString: '丁酉',
+  bigMonth: true }
+2017-12-18T04:53:26.164Z
+{ num: '100' }
+a user connected
+listening on *:8081
+文件存在
+2017-12-18T22:50:00.000Z 2017-12-19T03:03:10.938Z 2017-12-19T03:03:10.939Z
+19 19 19 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 19,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 2,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初二',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '庚辰',
+  suit: '嫁娶,冠笄,祭祀,祈福,求嗣,雕刻,开光,安香,出行,入学,修造,动土,竖柱,上梁,盖屋,起基,安门,出火,移徙,入宅,掘井,造畜稠,安葬,破土,除服,成服',
+  taboo: '开市,纳采,订盟,作灶,造庙,造船,经络',
+  animal: '鸡',
+  week: 'Tuesday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  lunarYearString: '丁酉',
+  bigMonth: true,
+  leap: false }
+2017-12-19T03:03:10.945Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-18T22:50:00.000Z 2017-12-19T03:12:40.821Z 2017-12-19T03:12:40.822Z
+19 19 19 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 19,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 2,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初二',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '庚辰',
+  suit: '嫁娶,冠笄,祭祀,祈福,求嗣,雕刻,开光,安香,出行,入学,修造,动土,竖柱,上梁,盖屋,起基,安门,出火,移徙,入宅,掘井,造畜稠,安葬,破土,除服,成服',
+  taboo: '开市,纳采,订盟,作灶,造庙,造船,经络',
+  animal: '鸡',
+  week: 'Tuesday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  lunarYearString: '丁酉',
+  bigMonth: true,
+  leap: false }
+2017-12-19T03:12:40.825Z
+{ num: '100' }
+a user connected
+a user connected
+a user connected
+a user connected
+文件存在
+2017-12-18T22:50:00.000Z 2017-12-19T14:48:04.051Z 2017-12-19T14:48:04.051Z
+19 19 19 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 19,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 2,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初二',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '庚辰',
+  suit: '嫁娶,冠笄,祭祀,祈福,求嗣,雕刻,开光,安香,出行,入学,修造,动土,竖柱,上梁,盖屋,起基,安门,出火,移徙,入宅,掘井,造畜稠,安葬,破土,除服,成服',
+  taboo: '开市,纳采,订盟,作灶,造庙,造船,经络',
+  animal: '鸡',
+  week: 'Tuesday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  lunarYearString: '丁酉',
+  bigMonth: true,
+  leap: false }
+2017-12-19T14:48:04.053Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-18T22:50:00.000Z 2017-12-19T14:55:22.621Z 2017-12-19T14:55:22.622Z
+19 19 19 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 19,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 2,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初二',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '庚辰',
+  suit: '嫁娶,冠笄,祭祀,祈福,求嗣,雕刻,开光,安香,出行,入学,修造,动土,竖柱,上梁,盖屋,起基,安门,出火,移徙,入宅,掘井,造畜稠,安葬,破土,除服,成服',
+  taboo: '开市,纳采,订盟,作灶,造庙,造船,经络',
+  animal: '鸡',
+  week: 'Tuesday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  lunarYearString: '丁酉',
+  bigMonth: true,
+  leap: false }
+2017-12-19T14:55:22.625Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-18T22:50:00.000Z 2017-12-19T14:55:39.587Z 2017-12-19T14:55:39.588Z
+19 19 19 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 19,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 2,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初二',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '庚辰',
+  suit: '嫁娶,冠笄,祭祀,祈福,求嗣,雕刻,开光,安香,出行,入学,修造,动土,竖柱,上梁,盖屋,起基,安门,出火,移徙,入宅,掘井,造畜稠,安葬,破土,除服,成服',
+  taboo: '开市,纳采,订盟,作灶,造庙,造船,经络',
+  animal: '鸡',
+  week: 'Tuesday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  lunarYearString: '丁酉',
+  bigMonth: true,
+  leap: false }
+2017-12-19T14:55:39.591Z
+{ num: '100' }
+a user connected
+文件存在
+2017-12-18T22:50:00.000Z 2017-12-19T14:56:41.735Z 2017-12-19T14:56:41.736Z
+19 19 19 11 11 2017 2017
+文件存在
+{ year: 2017,
+  month: 12,
+  day: 19,
+  lunarYear: 2017,
+  lunarMonth: 11,
+  lunarDay: 2,
+  cnyear: '贰零壹柒 ',
+  cnmonth: '十一',
+  cnday: '初二',
+  hyear: '丁酉',
+  cyclicalYear: '丁酉',
+  cyclicalMonth: '壬子',
+  cyclicalDay: '庚辰',
+  suit: '嫁娶,冠笄,祭祀,祈福,求嗣,雕刻,开光,安香,出行,入学,修造,动土,竖柱,上梁,盖屋,起基,安门,出火,移徙,入宅,掘井,造畜稠,安葬,破土,除服,成服',
+  taboo: '开市,纳采,订盟,作灶,造庙,造船,经络',
+  animal: '鸡',
+  week: 'Tuesday',
+  festivalList: [],
+  jieqi: { '7': '大雪', '22': '冬至' },
+  maxDayInMonth: 30,
+  lunarYearString: '丁酉',
+  bigMonth: true,
+  leap: false }
+2017-12-19T14:56:41.745Z
+{ num: '100' }
+a user connected

@@ -19,7 +19,7 @@ function isSameDay(Date1,Date2){
 		var data = comment[Math.floor(Math.random()*comment.length)];
 		console.log('update comment at ' + time,data)
 		// ci
-		$('#bottom-center')[0].innerHTML ='<div class="small align-left">    ' + data.content+'</div>' + '<div class="xsmall align-right" >《' + data.rhythmic +'》—— '+data.author + '</div>';
+		$('#bottom-center')[0].innerHTML ='<div class="medium align-left">    ' + data.content+'</div>' + '<div class="medium align-right" >《' + data.rhythmic +'》—— '+data.author + '</div>';
 	}
 
 
@@ -108,7 +108,7 @@ getCi()
 
  socket.on('message',(data)=>{
  	console.log(data);
-	$('#lower-third')[0].innerHTML = data.msg ;
+	$('#lower-third')[0].innerHTML ='<div class="large">'+ data.msg +'</div';
  })
 
 
